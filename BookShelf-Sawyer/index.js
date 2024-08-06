@@ -1,3 +1,8 @@
+/*
+@title: Book Shelf Generator
+@author: Sawyer Kocourek
+@snapshot: snapshot2.png
+*/
 // Book Shelf
 const width = 125;
 const height = 125;
